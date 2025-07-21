@@ -13,7 +13,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text('Borrow Buddy')),
-      body: Column(children: []),
+      body: Column(children: [Text('Home Page')]),
     );
   }
 }
