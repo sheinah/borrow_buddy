@@ -1,7 +1,7 @@
-📱 Mobile App Concept: Community Equipment Borrowing App
-🧠 App Name : BorrowBuddy – “Share, Borrow, Return”
+# 📱 Mobile App Concept: Community Equipment Borrowing App
+# 🧠 App Name : BorrowBuddy – “Share, Borrow, Return”
 
-📝 Overview
+# 📝 Overview
   BorrowBuddy is a mobile application that enables users to create and manage personal equipment storage while allowing others to view and borrow available items. It encourages community sharing, reduces waste, and improves access to tools and resources without the need to buy new items.
 
 # 🎯 User Roles
