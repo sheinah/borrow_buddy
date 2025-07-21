@@ -1,4 +1,4 @@
-# shanisa_share_and_borrow
+# borrow_buddy
 
 A new Flutter project.
 
