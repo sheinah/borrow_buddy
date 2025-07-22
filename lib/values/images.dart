@@ -1,1 +1,1 @@
-const splashImage = 'assets/1-image.png';
+const splashImage = 'assets/Online.gif';
